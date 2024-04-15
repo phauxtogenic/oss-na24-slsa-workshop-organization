@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project1-echo-server",
+            "name": "docker.io/phauxtogenic/oss-na24-slsa-workshop-project1-echo-server",
             "environment": {
                 "any_of": [
                     "prod"
